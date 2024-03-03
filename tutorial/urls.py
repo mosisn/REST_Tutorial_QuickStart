@@ -1,7 +1,7 @@
 from django.contrib import admin
 from django.urls import path, include
 from rest_framework import routers
-from tuturial.quickstart import views
+from tutorial.quickstart import views
 
 
 
